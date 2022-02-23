@@ -143,6 +143,12 @@ nav li a:hover{
     margin-top: 100px;
 }
 
+.style-text{
+    font-size: 40px;
+    font-weight: 700;
+    color: #333333;
+}
+
 .expereince-area{
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
